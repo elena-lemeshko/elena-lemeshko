@@ -1,41 +1,34 @@
-### Hi there 👋
+## Hi there 👋
 
 [![MasterHead](https://github.com/elena-lemeshko/elena-lemeshko/blob/main/Assets/Backgrounds/Sulfamic_Acid_and_Vanillin_1.jpeg)](https://github.com/elena-lemeshko/)
 
-### :hammer_and_wrench: Technology Stack & Tools
-[![Swift](https://img.shields.io/badge/Language-Swift_v.2+-<COLOR>.svg)](https://shields.io/)
-[![ObjC](https://img.shields.io/badge/Language-Objective--C-<COLOR>.svg)](https://shields.io/)
+[![Github](https://img.shields.io/badge/-Gist_Github-000?style=flat&logo=Github&logoColor=white)](https://gist.github.com/elena-lemeshko)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-lemeshko-558836a2/)
+[![Habr](https://img.shields.io/badge/-Career_Habr-000?style=flat&logo=habr&logoColor=white)](https://www.linkedin.com/in/elena-lemeshko-558836a2/)
 
-[![iOS](https://img.shields.io/badge/OS-iOS_v.6+-<COLOR>.svg)](https://shields.io/)
-[![iPadOS](https://img.shields.io/badge/OS-iPadOS_v.13+-<COLOR>.svg)](https://shields.io/)
+&nbsp;
 
-[![iPhone](https://img.shields.io/badge/Device-iPhone-<COLOR>.svg)](https://shields.io/)
-[![iPad](https://img.shields.io/badge/Device-iPad-<COLOR>.svg)](https://shields.io/)
-[![Design](https://img.shields.io/badge/Design-Universal_application-<COLOR>.svg)](https://shields.io/)
+## :hammer_and_wrench: Technology Stack & Tools
+[![Swift](https://img.shields.io/badge/Language-Swift_v.2+-brightgreen.svg)]()
+[![ObjC](https://img.shields.io/badge/Language-Objective--C-brightgreen.svg)]()
+[![iOS](https://img.shields.io/badge/OS-iOS_v.6+-brightgreen.svg)]()
+[![iPadOS](https://img.shields.io/badge/OS-iPadOS_v.13+-brightgreen.svg)]()
+[![iPhone](https://img.shields.io/badge/Devices-iPhone/iPod/iPad-brightgreen.svg)]()
+[![Design](https://img.shields.io/badge/Design-Universal_application-brightgreen.svg)]()
 
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/> <img alt="Sketch" src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white"/>
-<img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white"/> <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white"/> <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important"/>
+[![Xcode](https://img.shields.io/badge/Xcode-%23147EFB?style=flat&logo=Xcode&logoColor=white)]()
+[![Sublime Text](https://img.shields.io/badge/Sublime_text-%235C5C5C.svg?style=flat&logo=sublime-text&logoColor=important)]()
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)]()
+[![Sketch](https://img.shields.io/badge/Sketch-%23F7B500.svg?style=flat&logo=sketch&logoColor=white)]()
 
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>  <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white"/>
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git_LFS-%23F64935.svg?style=flat&logo=gitlfs&logoColor=white)]()
+[![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)]()
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=flat&logo=bitbucket&logoColor=white)]()
 
----
+&nbsp;
 
-### :link: Other web pages:
-
-<p align="left">
-  <a href="https://gist.github.com/elena-lemeshko" target="blank" title="My GitHub Gist" >
-  <img style="vertical-align:middle" src="https://github.com/elena-lemeshko/elena-lemeshko/blob/main/Assets/SocialMedia/github.svg" alt="" height="30" />
-  </a>
-  <a href="https://career.habr.com/elena-more-po-koleno/" target="blank" title="My Career Habr" >
-  <img style="vertical-align:middle" src="https://github.com/elena-lemeshko/elena-lemeshko/blob/main/Assets/SocialMedia/habr.svg" alt="" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/elena-lemeshko-558836a2/" target="blank" title="My LinkedIn" >
-  <img style="vertical-align:middle" src="https://github.com/elena-lemeshko/elena-lemeshko/blob/main/Assets/SocialMedia/linkedin.svg" alt="" height="30" />
-  </a>
-</p>
-
----
-
-### :thumbsup: Credits
+## :thumbsup: Credits
 
 - The cover picture: "Sulfamic Acid and Vanillin 1" by [Justin Zoll](http://www.justinzoll.com/).
