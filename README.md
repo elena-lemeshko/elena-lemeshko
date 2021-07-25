@@ -21,21 +21,22 @@
 
 ## 👩‍💻 My Skills
 
+[![JSON](https://img.shields.io/badge/JSON-black.svg?style=flat&logo=json)]()
 [![Foundation](https://img.shields.io/badge/Foundation-firebrick.svg?style=flat)]()
-[![UIKit](https://img.shields.io/badge/UIKit-%23FF0000.svg?style=flat)]()
-[![Auto layout](https://img.shields.io/badge/Auto_layout-lightcoral.svg?style=flat)]()
-[![Size classes](https://img.shields.io/badge/Size_classes-orange.svg?style=flat)]()
+[![UIKit](https://img.shields.io/badge/UIKit-red.svg?style=flat)]()
+[![Auto layout](https://img.shields.io/badge/Auto_layout-tomato.svg?style=flat)]()
+[![Size classes](https://img.shields.io/badge/Size_classes-lightcoral.svg?style=flat)]()
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)]()
-[![Xcode Unit Tests](https://img.shields.io/badge/Xcode_Unit_Tests-%23FFD700.svg?style=flat)]()
-[![CoreData](https://img.shields.io/badge/Core_Data-%23FFFF00.svg?style=flat)]()
+[![Xcode Unit Tests](https://img.shields.io/badge/Xcode_Unit_Tests-moccasin.svg?style=flat)]()
+[![CoreData](https://img.shields.io/badge/Core_Data-lemonchiffon.svg?style=flat)]()
 [![Multitasking](https://img.shields.io/badge/Multitasking-ivory.svg?style=flat)]()
 [![Operations](https://img.shields.io/badge/Operations-honeydew.svg?style=flat)]()
-[![GCD](https://img.shields.io/badge/GCD-green.svg?style=flat)]()
-[![Feature-toggling](https://img.shields.io/badge/Feature--toggling-brightgreen.svg?style=flat)]()
+[![GCD](https://img.shields.io/badge/GCD-palegreen.svg?style=flat)]()
+[![Feature-toggling](https://img.shields.io/badge/Feature--toggling-lightgreen.svg?style=flat)]()
 [![NetworkExtension](https://img.shields.io/badge/Network_Extension-seagreen.svg?style=flat)]()
 [![Pushes](https://img.shields.io/badge/Local&Remote_Push_Notifications-teal.svg?style=flat)]()
 [![SSKeychain](https://img.shields.io/badge/SSKeychain-aquamarine.svg?style=flat)]()
-[![StoreKit](https://img.shields.io/badge/StoreKit-cyan.svg?style=flat)]()
+[![StoreKit](https://img.shields.io/badge/StoreKit-paleturquoise.svg?style=flat)]()
 [![Background tasks](https://img.shields.io/badge/Background_tasks-deepskyblue.svg?style=flat)]()
 [![Background fetch](https://img.shields.io/badge/Background_fetch-skyblue.svg?style=flat)]()
 [![TestFlight](https://img.shields.io/badge/TestFlight-%2356AFF2.svg?style=flat)]()
@@ -48,12 +49,11 @@
 [![RIBs](https://img.shields.io/badge/RIBs-darkviolet.svg?style=flat)]()
 [![HIG](https://img.shields.io/badge/Human_Interface_Guidelines-darkgray.svg?style=flat)]()
 [![Review](https://img.shields.io/badge/AppStore_Review_Guidelines-slategray.svg?style=flat)]()
-[![JSON](https://img.shields.io/badge/JSON-000.svg?style=flat&logo=json)]()
 
 
 &nbsp;
 
-## 🛠️ I'm working with
+## 🛠️ Tools I use
 
 [![Git_LFS](https://img.shields.io/badge/Git_LFS-%23F64935.svg?style=flat&logo=gitlfs&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)]()
