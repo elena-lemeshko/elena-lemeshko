@@ -22,6 +22,7 @@
 ## 👩‍💻 My Skills
 
 [![JSON](https://img.shields.io/badge/JSON-black.svg?style=flat&logo=json)]()
+[![AppGroups](https://img.shields.io/badge/App_Groups-saddlebrown.svg?style=flat)]()
 [![Foundation](https://img.shields.io/badge/Foundation-firebrick.svg?style=flat)]()
 [![UIKit](https://img.shields.io/badge/UIKit-red.svg?style=flat)]()
 [![Auto layout](https://img.shields.io/badge/Auto_layout-tomato.svg?style=flat)]()
@@ -33,6 +34,7 @@
 [![Operations](https://img.shields.io/badge/Operations-honeydew.svg?style=flat)]()
 [![GCD](https://img.shields.io/badge/GCD-palegreen.svg?style=flat)]()
 [![Feature-toggling](https://img.shields.io/badge/Feature--toggling-lightgreen.svg?style=flat)]()
+[![HotspotHelper](https://img.shields.io/badge/HotspotHelper-brightengreen.svg?style=flat)]()
 [![NetworkExtension](https://img.shields.io/badge/Network_Extension-seagreen.svg?style=flat)]()
 [![Pushes](https://img.shields.io/badge/Local&Remote_Push_Notifications-teal.svg?style=flat)]()
 [![SSKeychain](https://img.shields.io/badge/SSKeychain-aquamarine.svg?style=flat)]()
