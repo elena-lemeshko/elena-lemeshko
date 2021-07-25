@@ -19,7 +19,7 @@
 
 &nbsp;
 
-## 👩‍💻 My Skills
+## 👩‍💻 My skills
 
 [![JSON](https://img.shields.io/badge/JSON-black.svg?style=flat&logo=json)]()
 [![AppGroups](https://img.shields.io/badge/App_Groups-saddlebrown.svg?style=flat)]()
