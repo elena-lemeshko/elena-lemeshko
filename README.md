@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/badge/-Gist_Github-000?style=flat&logo=Github&logoColor=white)](https://gist.github.com/elena-lemeshko)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-lemeshko-558836a2/)
-[![Habr](https://img.shields.io/badge/-Career_Habr-000?style=flat&logo=habr&logoColor=white)](https://www.linkedin.com/in/elena-lemeshko-558836a2/)
+[![Habr](https://img.shields.io/badge/-Career_Habr-000?style=flat&logo=habr&logoColor=white)](https://career.habr.com/yelena-lemeshko/)
 
 &nbsp;
 
@@ -62,7 +62,9 @@
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)]()
 [![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white)]()
 [![Sketch](https://img.shields.io/badge/Sketch-%23F7B500.svg?style=flat&logo=sketch&logoColor=white)]()
+[![Charles](https://img.shields.io/badge/Charles-aliceblue.svg?style=flat)]()
 [![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)]()
+[![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?style=flat&logo=wireshark&logoColor=white)]()
 [![Xcode](https://img.shields.io/badge/Xcode-%23147EFB?style=flat&logo=Xcode&logoColor=white)]()
 [![TFS](https://img.shields.io/badge/Team_Foundation_Server-%230078D7.svg?style=flat&logo=azure-devops&logoColor=white)]()
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=flat&logo=bitbucket&logoColor=white)]()
